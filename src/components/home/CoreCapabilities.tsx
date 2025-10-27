@@ -63,7 +63,7 @@ export default function CoreCapabilities() {
 			icon: Rocket,
 			title: "Digital Marketing & SEO",
 			blurb: "Boost visibility and conversions",
-			bullets: ["PPC Campaigns", "Content Strategy", "SEO Audits"],
+			bullets: ["Content Strategy", "SEO Audits"],
 		},
 		{
 			icon: Plug,
